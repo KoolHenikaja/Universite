@@ -1,0 +1,20 @@
+.professeur-page header {
+    background-image: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../../utils/images/enseignants-page-header.jpg);
+}
+.p-card {
+    text-align: center;
+    padding-bottom: 10px;
+}
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+}
+.p-role{
+    padding: 4px;
+    border-radius: 10px;
+    background-color: #e2e2e2;
+}
+.p-cover {
+    border-radius: 100%;
+    object-fit: cover;
+}
